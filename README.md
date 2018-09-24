@@ -1,2 +1,1 @@
-# dotnetcore2
-Heroku .NET Core Buildpack
+# Heroku .NET Core Buildpack
